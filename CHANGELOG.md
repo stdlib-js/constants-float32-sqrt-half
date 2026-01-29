@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-06-26)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -32,8 +32,9 @@
 
 <details>
 
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
--   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
+-   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh Yadav)_
 -   [`299025d`](https://github.com/stdlib-js/stdlib/commit/299025d0d1509d90fc08bc8980bb8001b79c48c4) - **docs:** update related packages sections [(#5867)](https://github.com/stdlib-js/stdlib/pull/5867) _(by stdlib-bot, Athan Reines)_
 -   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - **fix:** ensure header files reside in correct directories _(by Philipp Burckhardt)_
 -   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - **feat:** add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334) _(by Manvith M, stdlib-bot)_
@@ -51,7 +52,7 @@
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Manvith M
 -   Philipp Burckhardt
 
